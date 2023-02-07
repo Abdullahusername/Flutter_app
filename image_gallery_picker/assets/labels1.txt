@@ -1,0 +1,5 @@
+0 Barni
+1 Khalas
+2 Khenaizi
+3 Segai
+4 Mixed
